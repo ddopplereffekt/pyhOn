@@ -1,4 +1,4 @@
-# Announcement: I have to take the project down in the next few days
+# Letter to original repo publisher
 > Dear User,
 > 
 > We are writing to inform you that we have discovered two Home Assistant integration plug-ins developed by you ( https://github.com/Andre0512/hon and https://github.com/Andre0512/pyhOn ) that are in violation of our terms of service. Specifically, the plug-ins are using our services in an unauthorized manner which is causing significant economic harm to our Company.
